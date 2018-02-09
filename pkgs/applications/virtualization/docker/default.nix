@@ -200,7 +200,7 @@ rec {
   docker_17_12 = dockerGen rec {
     version = "17.12.0-ce";
     rev = "486a48d2701493bb65385788a291e36febb44ec1"; # git commit
-    sha256 = "14kp7wrzf3s9crk8px1dc575lchyrcl2dqiwr3sgxb9mzjfiyqps";
+    sha256 = "1byz9krlzyflc3j9sy6dnzml3a98j2ic4imvbhyspa9d4l29yvr5";
     runcRev = "b2567b37d7b75eb4cf325b77297b140ea686ce8f";
     runcSha256 = "0zarsrbfcm1yp6mdl6rcrigdf7nb70xmv2cbggndz0qqyrw0mk0l";
     containerdRev = "89623f28b87a6004d4b785663257362d1658a729";
